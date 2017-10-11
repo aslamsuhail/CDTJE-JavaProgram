@@ -1,0 +1,16 @@
+public class demo
+{
+	public static void main(String arg[])
+	{
+		Box box=new Box();
+		
+		box.setBase(10.0);
+		box.setHeight(20);
+		
+		double area;
+		area=0.5 * (box.getBase()*box.getHeight());
+		
+		System.out.println("total width of the box:"+area);
+	}
+}
+
