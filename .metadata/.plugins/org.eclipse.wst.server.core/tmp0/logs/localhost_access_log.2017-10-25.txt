@@ -1,0 +1,7 @@
+127.0.0.1 - - [25/Oct/2017:12:01:08 -0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Oct/2017:12:01:10 -0700] "GET /BootStrapExample/ HTTP/1.1" 404 1028
+0:0:0:0:0:0:0:1 - - [25/Oct/2017:12:03:35 -0700] "GET /BootStrapExample/homefile.html HTTP/1.1" 200 156
+0:0:0:0:0:0:0:1 - - [25/Oct/2017:12:03:54 -0700] "GET /BootStrapExample/homefile.html HTTP/1.1" 200 156
+0:0:0:0:0:0:0:1 - - [25/Oct/2017:12:03:55 -0700] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [25/Oct/2017:12:06:27 -0700] "GET /BootStrapExample/homefile.html HTTP/1.1" 200 446
+0:0:0:0:0:0:0:1 - - [25/Oct/2017:12:06:28 -0700] "GET /favicon.ico HTTP/1.1" 404 1016
